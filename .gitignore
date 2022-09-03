@@ -1,0 +1,7 @@
+build/
+bin/main.exe
+lib/
+ninja/
+.cache/
+compile_commands.json
+.clangd
